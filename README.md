@@ -22,7 +22,7 @@ I am currently pursuing Bachelors of Technology in Computer Science and Engineer
 
 - 📔 [Kids Magazine iOS Application](https://github.com/cse-iitbhu/iOS-Kids-Magazine): Kids Magazine is an iOS app that contains short stories designed for children, aiming to assist them in learning to read in their native languages. The app incorporates a firebase-linked database, offers transliteration, audio narration, and dynamic text highlighting features.
 
-- 🌾 [Drone for Agriculture: Challenges and Opportunities](https://github.com/simrannn30/Drone-Writeup): It is a magazine write-up in IEEE format that describes the use of drones in agriculture and further explores its challenges and opportunities backed by a significant amount of research.
+- 🌾 [Drone for Agriculture: Challenges and Opportunities](https://github.com/simrannn30/Drone-for-agriculture-Writeup): It is a magazine write-up in IEEE format that describes the use of drones in agriculture and further explores its challenges and opportunities backed by a significant amount of research.
 
 ## 📊 GitHub Stats
 <p align="center">
