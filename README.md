@@ -1,3 +1,4 @@
+![Header GIF](header.gif)
 <h3 align="center">A computer science student and enthusiast from IIT BHU 🖥️</h2>
 
 <p align="center">
